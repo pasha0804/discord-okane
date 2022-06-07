@@ -85,4 +85,4 @@ async def balance(ctx):
     else:
         await ctx.send(ctx.message.author.mention + " has no coins!")
 
-bot.run('OTgyMjU5MzU0ODkzOTYzMjg0.GYXw2Y.SqH92gE_lu8VQ9kcIy_QXmPgyfqIZ3QQByNPOE')
+bot.run('TOKEN') # here you just have to add your bot-token to get the bot working!
